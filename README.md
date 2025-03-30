@@ -44,7 +44,7 @@
 
 <h2 aling="center">Visualización de Datos</h2>
 
-<li>Gráfico de Barras</li>
+<li>Histograma</li>
 
 ![image](https://github.com/user-attachments/assets/1c3ec4ff-fc39-41e4-be90-5f347c5e5347)
 
